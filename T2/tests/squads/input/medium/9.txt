@@ -1,0 +1,59 @@
++ 22 V X S V W P U A P V W S B F Y B Q A X Z B Q
++ 19 B Q P A P A Z V X F B Q Z X X X V Q P
++ 17 X B Y F P A X V V Q Z W V S F F F
++ 19 Y A Q X S P F S B Z A P F P Q X Q Y B
++ 20 U W V U F U A Q X W A W B U U U F Q S B
++ 21 V U S S F A Z W F Q W X B V Q X Q B X F Q
++ 18 S B S V P Y Q A V Z S A Z W U Y Y U
++ 20 U F U S A U U F B Q A V W W U U W Q X B
++ 17 B P V V X F Y Z F S X W V Q F F A
++ 20 Y P X A S B X A Q A F Z X W F P B Y S B
++ 19 W V Y A A Z S Y Z S Z S V F F Y F B U
++ 19 B V Q B Z S F A F P Y Z U Y V Q Y Y P
++ 18 B P P S S V B V V U X P Q X A W B S
++ 19 A B X Q X P Z Z X F X V P Q B Q P V A
++ 19 Q A P B X B V Q Z V F Q Z A P P X X X
++ 19 P F S A B U A X A F Q Q Z A Q F Q F U
++ 16 X W S Y Y W V F S S P A Y P W F
++ 18 S Q P V V X S A W V B P U X B B S P
++ 19 Y Q B S Z F S P Y P A Q X F A Q X P B
++ 18 V P S X B P V S U B A Q S W P X B V
++ 19 A V Q F X A X X P P V Z Z P Q B B Q X
++ 21 B S S X Q F Z U Z W S S U U Q Q B F Y Q W
++ 20 B V P A P P F S Q X F V A V Z U Q W P B
++ 22 P X Q B A Q W U B X B Y S V P S V V Z F A W
++ 17 U X B F U P A V S Q Z W S F X Z A
++ 21 Y V Y U X P F Z Z U X Q Y Z Z Y Y U A F W
++ 20 F Q X V Q P Z U P Z X S W W B Q A X B Y
++ 21 Q W Y A Y Z Z U F Y X Z Y X V P F U Y U Z
++ 17 S U B Y X B W X B U W W Z P Z U P
++ 17 A V X W X B W A F W Z U Y W F Q V
++ 20 P V P Q B Q F A B A W X V V P S P F Z U
++ 22 U W Q X U U B W Y S U B Y S S B A Y F F X Z
++ 20 Y Q W Y U V P W V A U B S V Q Q X B A Z
++ 18 Z X V S Z S P W W Z F W F F Z F P B
++ 18 V U A P W P P W U Q V W A B Q B W F
++ 18 U P X P P Z F S F Z B U X B U A P B
++ 20 X B W F V A P P Z Q X U Q Y S Z Q W X B
++ 17 B A F W F X S F Y F X Z V P V V Q
+? 20 U U F B W V Q U Q W U F A U S B X A W U
++ 19 Q S P X Y Z Q P S U U Z B Y V Z W W V
++ 19 X A A Q B V Q Z F X B P Z X P V P X Q
++ 18 Q U P V Z F F X U P F B V P X A Y X
++ 20 U U Q F W U W U B S V W A U B F Q X U A
+? 19 S B Y Y S Q Z X P W U Z V Z V U W P Q
++ 18 X Q W B S B S B V P V S X U P V A P
++ 20 B Y Q S Z W P V A Q Y U A V V U B W Q X
++ 21 X P F V W W Z U B U A A Y B U W A S W Q F
++ 20 U Q W F Z U U U S S U B Y B V B W A B V
++ 20 B V X Z S X P S B P A W Y W S X P X Q S
++ 21 A W A W Y S X V F U A W Q B B F P W U Z U
+? 18 U X A F P P P U Z X F S Z P B B B U
++ 20 U W W Y P Y W X U B Y A S U V U S S U U
++ 21 Q Y P Q P P A V V F F F A X V S A P B X Z
++ 18 Q F F U U U B X W A P Z U S P V S Y
++ 19 W Q Z B Q W X X V V Z W V P W X B A U
+? 20 U B P A B V V P P Q F W S Q F Z A V X P
+? 19 A B S V Z F S A V Y F F S Z Z U Y W Y
+? 20 U X U U W U A F F B W U U V A Q Q B S W
+q

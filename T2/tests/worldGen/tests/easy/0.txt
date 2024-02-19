@@ -1,0 +1,16 @@
+3 3
+10
+J J J M
+J M J J
+J J M J
+M M M J
+M M J M
+J J M M
+M J M M
+M J M J
+J M J M
+M J J J
+3
+1 2 9
+0 2 9
+2 1 6

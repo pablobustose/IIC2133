@@ -1,0 +1,43 @@
++ 5 O S C Z Z
++ 6 C O S S Z A
++ 5 S C Z O S
++ 2 C O
++ 7 Z O O A O S O
++ 6 C C O A C S
++ 5 A C C C S
++ 3 Z C S
++ 6 C S C A O C
++ 6 A S S Z C O
++ 7 S O O O Z O A
++ 6 A O O O O O
++ 5 O O O O A
++ 5 A C O S Z
++ 5 S O A Z C
++ 6 Z C A Z A O
++ 5 A S A Z A
++ 7 O Z O O A O S
++ 2 C O
++ 6 S O A O Z C
++ 5 C A Z C O
++ 5 Z O C S Z
++ 5 Z A S Z A
++ 6 C Z Z S S O
++ 3 S Z C
++ 5 O O O O A
++ 7 Z C O O S A S
++ 5 A C O S A
++ 6 O C C A S C
++ 5 Z S O A A
+? 6 A S C O C C
++ 6 Z A C O Z A
++ 7 O A Z S Z Z Z
++ 5 Z A Z A S
+? 2 O C
++ 3 C S Z
++ 5 S C C A C
+? 3 Z C S
+? 6 A Z Z C A O
+? 5 Z S A O A
+? 5 C O A Z A
+? 6 Z O O S A C
+q

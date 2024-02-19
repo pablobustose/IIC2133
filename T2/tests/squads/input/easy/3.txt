@@ -1,0 +1,40 @@
++ 7 D W W D Z X B
++ 7 Z X Z W D D X
++ 6 D Z D B D D
++ 6 D D D Z B D
++ 7 B Z W D D W D
++ 6 D D B D Z D
++ 5 B D W X W
++ 8 X B D X D Z D Z
++ 6 D Z B D D D
++ 7 X D Z D Z W X
++ 6 Z Z B W Z Z
++ 8 X W D D D X B W
++ 7 D W B Z D W D
++ 5 W W B B B
++ 7 B B W Z W W Z
++ 7 B B Z Z Z B B
++ 7 B W D D Z X W
++ 6 D D X Z B Z
++ 6 D D D Z B D
++ 4 B B D X
++ 6 B D D B B X
++ 7 W D D Z B D W
++ 5 D X Z W Z
++ 6 Z W B D Z B
++ 7 Z B X Z B X X
++ 5 W Z D Z X
++ 7 W D D Z X X W
++ 5 B B W W B
++ 7 W W B X W Z X
++ 6 X B B D B D
+? 4 B D X B
++ 6 Z W W X W W
++ 6 D D B B B X
++ 4 W B B D
+? 7 W Z D Z X X D
+? 7 Z B Z B B Z B
+? 5 B B W W B
+? 6 B Z B W D Z
+? 6 B B D D X B
+q

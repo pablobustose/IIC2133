@@ -1,0 +1,33 @@
++ 8 Y M L L L M L Y
++ 5 M M N N L
++ 6 B Y L B Y L
++ 7 B B N M L B Y
++ 6 B L B Y L Y
++ 6 L Y L B B Y
++ 5 M M N Y B
++ 5 M Y M B N
++ 6 Y Y B B L L
++ 6 Y L B L B Y
++ 6 M M M M Y N
++ 6 B M N Y B L
+? 6 M M M M N Y
++ 6 B N B L B N
++ 4 M B B N
++ 3 L N B
++ 6 B B M N B B
++ 8 Y L Y N M N B B
++ 6 B Y N M Y Y
++ 5 L B N Y M
++ 6 N L L M N B
+? 7 L Y B B N B M
++ 5 L L M Y M
++ 6 N N L B M L
++ 7 L Y L N L M B
++ 3 B L Y
++ 4 N L N M
++ 6 N N L L M B
++ 5 L M Y M L
+? 6 Y M L B N B
++ 6 L L B B B M
++ 6 B N B B M M
+q

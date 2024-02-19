@@ -1,0 +1,15 @@
+6 6
+12
+I I O F
+F O F I
+O O I F
+F O I O
+I O O F
+F F I I
+I O I F
+F F I F
+O F O I
+O O F O
+O O I I
+I I F O
+0

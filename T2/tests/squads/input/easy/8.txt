@@ -1,0 +1,37 @@
++ 6 S L B B B B
++ 6 B S L B B B
++ 6 B S B B B L
++ 6 B L S B B B
++ 6 B L B B B S
++ 6 S B B B L B
++ 6 S B B B B L
++ 6 S T L B S T
++ 6 B B S L B B
++ 5 V T V L L
++ 3 T V S
++ 6 B B S L B B
++ 5 L V T L V
++ 6 B B B L B S
++ 6 V S S L T T
++ 6 S B B S V L
++ 5 T B V B B
++ 5 L V V L T
+? 5 B B T B V
++ 6 B B B S B L
++ 7 B V T B L V B
++ 7 V B L B T B V
+? 6 S V S V V B
++ 5 V T B B B
++ 5 T B B L S
++ 5 V V L L T
++ 6 L S B V B S
++ 6 S V V S B V
++ 6 S B L B B B
++ 5 B B T B V
++ 6 S L L B B B
+? 6 B B B L B S
+? 6 L B B B S B
+? 6 S B B B B L
+? 6 S B L B B B
+? 6 S B T S L S
+q

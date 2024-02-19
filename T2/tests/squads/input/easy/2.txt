@@ -1,0 +1,35 @@
++ 4 K W M K
++ 6 K K W K M W
++ 6 W M K W K K
++ 5 Y M O M Y
++ 6 K Y K W W O
++ 6 Y K W W M O
++ 4 K M K W
++ 7 M Y Y W W M M
++ 6 Y K O W K O
++ 5 O K K M M
++ 3 O K W
++ 7 M Y W M W Y M
++ 3 K W Y
++ 5 Y W Y O Y
++ 6 W O W M O M
++ 6 Y O W K O K
++ 6 W Y Y K Y W
++ 6 W K M O K O
++ 6 M Y M W O Y
++ 6 M O M Y W Y
++ 5 O K Y K Y
++ 5 Y M M O Y
++ 5 O M W K M
++ 6 O K O Y W K
++ 5 Y W K K O
++ 4 Y W W W
++ 4 Y M Y K
++ 4 Y K O Y
++ 5 O W W W K
+? 6 W K K Y W O
+? 7 M M Y O M W Y
++ 5 K M K W M
++ 3 W K Y
+? 5 W M Y Y Y
+q

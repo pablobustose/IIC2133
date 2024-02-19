@@ -1,1 +1,1 @@
-# IIC2133
+# IIC2133: Estructuras de Datos y Algoritmos

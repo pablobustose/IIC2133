@@ -1,0 +1,22 @@
+6 5
+19
+Q S Q Q
+H H S Q
+S H H Q
+S H S Q
+Q Q S H
+S Q Q S
+H S H H
+H Q H S
+S S Q H
+S Q H S
+H Q H H
+H Q Q Q
+Q H H Q
+H S S Q
+H H H Q
+S S Q S
+S S H Q
+H S Q Q
+H Q S H
+0

@@ -1,0 +1,24 @@
+7 7
+18
+Y G G G
+G P P Y
+Y Y Y G
+Y G P P
+Y Y G Y
+P G Y Y
+P Y Y P
+P Y Y G
+Y P Y G
+G Y G Y
+G Y P G
+G P Y G
+G G Y Y
+Y Y P Y
+P Y Y Y
+G Y G G
+Y P Y P
+G Y Y Y
+3
+3 6 4
+4 5 2
+5 5 12

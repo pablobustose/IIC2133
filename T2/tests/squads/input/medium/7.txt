@@ -1,0 +1,79 @@
++ 19 U R V U L U L C E R M H H N U J V L M
++ 21 U J M H R R R L H L V M C H D E L L V E V
++ 19 C N C H M V C V D R H M M N R L E L P
++ 19 C L R L D C H V E N C M P M N R M V H
++ 19 U P L R J N U M U V L P H C J U U P J
++ 20 E R L M J R D U P J D L E J R J R P H C
++ 20 M E C E J N J V U N D E R H C N L L M R
++ 20 R M L U V D E M P N R R H E U C C U N L
++ 21 U C H L N N D R P E C M H P E M N L P C L
++ 21 L H C H P N N M P U E L E L C P N C M D R
++ 19 D L P P N L R N V C P M N H L P C H D
++ 19 J P V P J J L C U U N U U R P H L U M
++ 21 V M J J V P L J N N L P U E L V V R R M M
++ 19 V H P L L C V R H E N M C M C N D R M
++ 18 P N D P E D V H R C E E H D D C H U
++ 19 R L H U L C L V J M U V N U M E R H U
++ 15 M H R P U E P M J R V L V M E
++ 20 M H P L V L H N C N D L C V V V L V H J
++ 21 P L J L V V V J J V L N M M N E P U M R R
++ 19 M H R M P J M R C R D U E D R E M P L
++ 20 U N U P P L M R D M J M E C M N J H P U
++ 19 H M C H U U V L L U V L R U M E R J N
++ 20 P V L D H J C R J H L N R P D E V U V V
++ 20 L E P M R L R P H L V E E C C M H J J E
++ 15 V M V H L J E M M P R P E R U
++ 20 V E M L N M L H P V D J N D J J P D R V
++ 17 M P L V H M U R J U J P P C N E L
++ 21 P N L C P D U P H E L C M R N N H L M E C
++ 19 L L U U U C V H V H J E R U M M R N L
++ 18 R E P P C L L C R V V P E V C V V U
++ 22 M N P J M R D V H J J U H N N R D V R P C H
++ 21 R E J L C J R D N L V M J D D U C L C E E
++ 20 L E J E V H N L J R C U E N M M C D N R
++ 18 C D E H D H D D H E P E P N V R C U
++ 19 U N M P M L P L V E H D N D E H D H R
++ 20 H D E C P E R J J J P R U M L J D L R R
++ 21 C L R C J E D C C M V D N R J R P M N M V
++ 20 J L V J M D U E E R E E R R U N P D P J
++ 19 M P P E L V N E V H C R J C P E J P P
++ 19 D L D C M J U C M C N N M H D J N J R
++ 18 D U J V P L R E J D N N E E L U J U
+? 20 L U E R J M D U E N M M R L E R N L C P
++ 15 J V E L R M U M P H R M E P V
++ 19 J C R C P R M R D D L D H R L E M M E
++ 19 V P C R R M L D M L V C N H M H C E N
++ 18 N U R C P E E U D J P R C V U C R U
++ 20 J L E H C J E R V E L M P P H C E R L M
++ 19 L E U M R R L N L V C U H U V H J U M
++ 20 H N P J E C C E N L M D J M J E D U N M
++ 18 J R L N D P C E R U M V L C H L C M
++ 18 L C D P C M C U J L H M R N L V E R
++ 20 P H C L C E E M L J V L E M J R R P E H
++ 19 M N H E V C L D P M C C C M N E U D J
++ 21 M L L E P L D P C H N M N C E U P R C N H
++ 20 L P R N L J R M E R N M D U C E E L U M
+? 18 C U E D J R E V C U C R R U N P U P
+? 19 D V N E C P M H J N U M C C C E D L M
++ 20 V N L L P M H V C D H V V C L L H J N V
++ 20 P N N D U V D L D C C V U R U N L C L U
++ 19 N D M L C U D J P V D E D P J C P U L
++ 18 D N P P E M J E J N M D H P J C E E
++ 20 D H E P P V N V V C E L C E U E C E R M
++ 18 E J P J C E P N D H V C J R U P V U
+? 21 H E H V L V R U R C D M J L M H R E V L L
+? 19 J J L N H D P L C J E P P J P C M J M
+? 19 E C R V N P P J M P H J P V L C E P E
++ 20 P P D M N U D U E M E E E J L P N N U D
++ 20 E V H L E U H H N U L C V E H H J D C J
++ 19 J M C V L N J R H J E M C M C V D E U
++ 19 P U J M P N U R U J J L P L U H U C V
++ 17 M D L D E U C C N N D P D R U M U
++ 21 R N C C J V C D P R V M M L C E N M J R D
++ 19 R E U D P L N U N E D L C E J D E J R
++ 17 D L J M E C C H P D P R U V N J E
+? 19 H C D H L P N M L D P N P V P C L N R
+? 19 M C D M R C R P E M R D E R L L D J H
+? 20 H P J N V H U C J R E V V L P R D V L D
+? 19 J M L D R D C E M R U R M R P H E P M
+q

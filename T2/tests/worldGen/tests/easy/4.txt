@@ -1,0 +1,14 @@
+3 3
+8
+E H H E
+H H E H
+E E H E
+H E H H
+E E E H
+E H H H
+E E H H
+H H E E
+3
+0 1 2
+2 2 0
+2 0 7

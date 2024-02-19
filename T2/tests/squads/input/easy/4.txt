@@ -1,0 +1,36 @@
++ 6 L E V L U V
++ 5 V I E E L
++ 3 U U L
++ 5 U U V I U
++ 7 I I L U L U L
++ 5 U I E L I
++ 7 V E L I L V V
++ 7 E I L E I U U
++ 5 I U E I U
++ 4 V L V L
++ 6 V V I U E I
++ 7 L E U E U V U
++ 6 L I L V I U
++ 6 U L E U I E
++ 3 E E E
+? 7 I L L I U L U
++ 5 E V I L E
++ 7 I I L L U U L
++ 5 I L L V V
++ 6 L E V E I E
++ 5 U I V I U
++ 5 I V E L E
++ 4 E I V I
++ 5 E I U I I
++ 5 I U V L I
++ 3 E E E
++ 3 E E E
++ 6 E L L L U I
++ 7 U V V L E I V
++ 6 E L I V E E
+? 7 L V U V E V I
++ 4 L V I V
++ 4 U U I I
++ 6 V E L E I E
+? 3 U U V
+q

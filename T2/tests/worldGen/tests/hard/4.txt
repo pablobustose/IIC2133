@@ -1,0 +1,53 @@
+8 6
+46
+L T K L
+T N K H
+K L L H
+H T K L
+K L K L
+N T H T
+T H L K
+H T K T
+T T H H
+N T T T
+N N K T
+T L K T
+N H T K
+N T T N
+N L H T
+N L T K
+L K K H
+H K K L
+L N L T
+N N K L
+H N T H
+H T H L
+N H K K
+N L T N
+L T N T
+K N T K
+L K H L
+L K T N
+N K H N
+K T L H
+H L T H
+H T N K
+K N L T
+T K N K
+T T T K
+L T K N
+H L L T
+N L K H
+T L T T
+T K T H
+L T L L
+T N H L
+N K N K
+T L N L
+K T H H
+K L K T
+4
+5 1 13
+0 3 37
+0 1 11
+3 4 18

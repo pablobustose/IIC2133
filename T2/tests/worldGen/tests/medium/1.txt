@@ -1,0 +1,30 @@
+5 4
+24
+Y Y Y H
+H Y H Y
+H U H U
+U H U H
+U H H U
+Y Y U H
+H Y Y H
+H U U Y
+H U Y H
+U U Y Y
+U Y U Y
+U H U U
+Y H U U
+U Y H U
+H H H Y
+H Y U H
+H U U U
+U U U H
+Y H H H
+H H U U
+H Y H U
+H Y U U
+U H U Y
+Y U U U
+3
+2 2 4
+4 1 18
+0 1 14

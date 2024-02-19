@@ -1,0 +1,39 @@
++ 5 X M T M S
++ 5 T S M M X
++ 7 X X B S X M S
++ 5 B M B B S
++ 4 M B B S
++ 8 T T B X B S X X
+? 8 B S X X X B T T
++ 6 X M T B X B
++ 5 T X B T T
++ 4 T M X B
++ 9 S T B T T M S X X
++ 7 T S T B B X X
++ 4 X S T B
++ 6 B X M B S M
++ 6 T S S X S S
++ 5 B B M B S
++ 7 B S M M X M T
++ 4 X S M M
+? 6 X X T B M B
+? 7 T M M B X S M
++ 6 S S M X X S
++ 4 M B B X
++ 5 B T S S B
++ 6 S S S M B S
++ 4 X M B B
++ 7 X X T S T B B
++ 5 S T T B B
++ 7 B T T S S B M
+? 5 X T T B T
++ 6 B T S S B B
++ 4 B X S T
++ 6 T B S B S B
++ 6 T S X B B M
+? 4 S T X B
+? 7 S X S X M X B
+? 5 B T T T X
+? 4 B M S B
+? 5 M T S S T
+q

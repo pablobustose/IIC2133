@@ -1,0 +1,30 @@
+6 7
+21
+J X G X
+G G J J
+G G J G
+G X X X
+J G G G
+X J J G
+J G G X
+G G X X
+J X G J
+X G G G
+J X X J
+J J G X
+J J X J
+G G X G
+G J X G
+J J G J
+X J G X
+X G J X
+G X X J
+X G J G
+J G X G
+6
+3 1 9
+1 0 11
+4 3 17
+1 2 19
+1 6 20
+2 2 13

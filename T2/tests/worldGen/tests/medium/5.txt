@@ -1,0 +1,20 @@
+4 5
+13
+S F S S
+S F G G
+G F S G
+S S G F
+G S G S
+F S G G
+G S S F
+G F F S
+F G G F
+G F F F
+F F F G
+S S F G
+F F G S
+4
+2 2 0
+3 4 11
+1 0 4
+2 3 10

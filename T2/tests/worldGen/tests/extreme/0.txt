@@ -1,0 +1,89 @@
+15 14
+77
+I R F N
+A I D N
+R F A D
+U A N I
+D I I R
+N R N I
+I N R N
+R U F N
+F A U F
+I N U U
+D U F R
+N D F A
+U U U I
+U U I U
+A I U A
+D A N A
+U D D F
+R D I R
+R D U I
+I I D I
+I R I N
+U U F I
+F I U R
+A A I I
+N A A N
+A D R F
+D D I I
+N F D N
+R I D U
+A D F I
+I D D D
+A U A R
+N D A U
+I N R A
+R I A A
+F U U R
+R R F U
+U I R A
+R N R R
+U R F R
+U A U F
+A R R R
+U N U U
+D R D I
+N D I A
+I D N N
+U D F I
+D D U A
+D D N I
+D N N R
+F R N I
+R U A N
+D F F I
+A F D A
+I N I F
+A R R D
+N U F U
+U F N R
+R D U R
+D D D F
+N D N D
+U R N D
+N D A F
+I I R U
+D F F R
+D R R I
+D R U A
+N I I A
+R A R F
+R F R N
+A F I N
+D A N I
+D U F U
+R I I N
+U N A F
+I R N A
+U R R N
+9
+5 1 49
+11 0 48
+0 4 58
+3 4 14
+6 8 72
+2 11 39
+8 3 21
+8 10 62
+11 10 10

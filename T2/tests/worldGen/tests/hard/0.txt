@@ -1,0 +1,47 @@
+9 6
+42
+O D V O
+O W O O
+D O R O
+O D R R
+D R D O
+W R W R
+O V V R
+W O V R
+R R D D
+V O W R
+R R O D
+D O V V
+O R V W
+V W R D
+O V V W
+W D V W
+V R R V
+V V O D
+R R O R
+D R V O
+O V O W
+V D O O
+O W D O
+R D O R
+D W O V
+D R D W
+W V V V
+W O O D
+W W R D
+O D D V
+V D V W
+D O O O
+D V D V
+D R O D
+W W D D
+W W O V
+O O D R
+O W D R
+R W W D
+V D R O
+D D D W
+R O R W
+2
+3 4 5
+8 0 16

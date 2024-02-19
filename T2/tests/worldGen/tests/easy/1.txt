@@ -1,0 +1,15 @@
+4 3
+9
+O O J J
+O O J O
+J J J O
+J O O O
+J O O J
+J O J O
+O O O J
+O J J O
+J J O J
+3
+1 0 2
+2 1 0
+0 1 4

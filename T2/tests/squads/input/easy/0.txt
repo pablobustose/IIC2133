@@ -1,0 +1,32 @@
++ 5 B X P T X
+? 5 P X T X B
++ 5 B T N N B
++ 5 B T N N B
++ 7 X T B T T P B
++ 5 T N B X P
++ 5 N T B N B
+? 5 N P X T B
++ 7 X P N P T B B
++ 6 N P T T X N
++ 6 T N X X X T
++ 5 N N B T B
++ 4 B B N P
++ 6 P P X T P T
+? 5 T B X B X
++ 4 P N B B
++ 6 P T P X T P
+? 6 X N X T T X
++ 7 T P T X B B T
+? 7 X B T B T P T
++ 5 B T T X T
++ 5 P T P B B
++ 7 T B X T P B T
++ 5 X T P B X
+? 5 B P X N T
++ 5 B B B T B
++ 5 X P X X T
++ 7 X N P X P B P
++ 7 B X T B T P T
++ 5 X X X T N
+? 5 T X X X N
+q
